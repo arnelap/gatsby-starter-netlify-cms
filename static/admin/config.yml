@@ -10,7 +10,7 @@ backend:
 
 media_folder: static/img
 public_folder: /img
-
+locale: 'nl'
 collections:
   - name: "blog"
     label: "Blog"
